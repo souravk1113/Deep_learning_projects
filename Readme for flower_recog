@@ -1,0 +1,1 @@
+uses residual net cnn architecture to recognise flower species from given image. the present model is only trained to recognise three species but can be exteded easily
